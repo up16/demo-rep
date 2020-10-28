@@ -1,2 +1,3 @@
-# demo-rep
-Demo repository for git tutorial 
+# DEMO
+
+some description
